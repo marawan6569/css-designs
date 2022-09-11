@@ -1,0 +1,21 @@
+.box{
+    height: 70px;
+    width: 90px;
+    border: 1px ;
+}
+.rect{
+	width:90px;
+	height:70px;
+	background-color:#ff0000;
+	border-radius: 20px;
+}
+
+.tria{
+	height: 0;
+    width: 0;
+    border-top: 20px solid transparent;
+    border-left: 40px solid #ffffff;
+    border-bottom: 20px solid transparent;
+    margin-left: 30px;
+    margin-top: -55px;
+}

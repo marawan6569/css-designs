@@ -1,0 +1,101 @@
+div{
+	background-color: #a3c439;
+	position: absolute;
+}
+.box{
+	height: 500px;
+	width:400px;
+	border: 1px solid;
+	background-color: transparent;
+}
+.horn1{
+    width: 4px;
+    height: 60px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    transform: rotate(30deg);
+    position: absolute;
+    margin-top: 68px;
+    margin-left: 226px;
+}
+.horn2{
+    width: 4px;
+    height: 60px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    transform: rotate(150deg);
+    margin-left: 140px;
+    margin-top: 68px;
+}
+.head{
+	width:  150px;
+	height: 75px;
+	border-top-right-radius: 75px;
+	border-top-left-radius: 75px;
+	margin-left: 110px;
+	margin-top: 100px;
+}
+.eye1{
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+	background-color: #ffffff;
+	margin-left: 210px;
+	margin-top: 130px;
+}
+.eye2{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    margin-left: 150px;
+    margin-top: 130px;
+}
+.body{
+	width: 150px;
+	height: 150px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-top: 180px;
+    margin-left: 110px;
+}
+.hand1{
+	width: 30px;
+	height: 120px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+    margin-left: 267px;
+    margin-top: 190px;
+}
+.hand2{
+	width: 30px;
+	height: 120px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-top: 190px;
+    margin-left: 74px;
+}
+.leg1{
+	width: 30px;
+	height: 90px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-left: 200px;
+    margin-top: 300px;
+}
+.leg2{
+	width: 30px;
+	height: 90px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-left: 140px;
+    margin-top: 300px;
+}

@@ -1,0 +1,34 @@
+.box{
+	height: 250px;
+	width: 250px;
+	border: 1px ;
+}
+.GOOGLE{
+	margin-top: 100px;
+	margin-left: 125px;
+	display: block;
+	width: 75px;
+	height: 50px;
+	position: relative;
+	border-top: 50px solid #4285f4;
+	border-right: 50px solid #4285f4;
+	border-bottom: 50px solid #4285f4;
+	border-radius: 0 0 250px 0px;
+	box-sizing: content-box;
+}
+.GOOGLE:before{
+	content: '';
+	display: block;
+	width: 250px;
+	height: 250px;
+	border-top: 50px solid #EA4335;
+	border-left: 50px solid #FBBc05;
+	border-bottom: 50px solid #34A852;
+	border-right: 50px solid transparent;
+	border-radius: 200px;
+	box-sizing: border-box;
+	position: absolute;
+	right: -50px;
+	top: -150px;
+
+}

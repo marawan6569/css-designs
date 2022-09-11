@@ -1,0 +1,60 @@
+.continer{
+	display: block;
+	height:300px;
+	width: 300px;
+	position: relative;
+}
+
+.body{
+	display: block;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border:50px solid #1aa9e3;
+	border-radius: 50%;
+	box-sizing: border-box;
+	left: calc(50% - 100px);
+	top: calc(50% - 100px);
+}
+
+.tooth{
+	position: absolute;
+	display: block;
+	width: 50px;
+	height: 70px;
+	background: #1aa9e3;
+	left: calc(50% - 25px);
+	transform-origin: 25px 150px; 
+}
+
+.t1{
+	transform: rotateZ(0deg);
+}
+
+.t2{
+	transform: rotateZ(45deg);
+}
+
+.t3{
+	transform: rotateZ(90deg);
+}
+
+.t4{
+	transform: rotateZ(135deg);
+}
+
+.t5{
+	transform: rotateZ(180deg);
+}
+
+.t6{
+	transform: rotateZ(225deg);
+}
+
+.t7{
+	transform: rotateZ(270deg);
+}
+
+.t8{
+	transform: rotateZ(0315deg);
+}

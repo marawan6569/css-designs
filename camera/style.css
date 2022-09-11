@@ -1,0 +1,80 @@
+.box{
+	height: 150px;
+	width: 150px;
+	border: 1px solid;
+}
+.CBody{
+	height: 150px;
+	width: 150px;
+	background-color: #13b5e6;
+	border-radius: 10px;
+}
+
+.RedDot{
+    height: 20px;
+    width: 20px;
+    background-color: #ed5d54;
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: -140px;
+}
+
+.tape1{
+	width: 150px;
+	height: 35px;
+	background-color:#000000;
+	margin-top: 49px;
+
+}
+.tape2{
+	width: 150px;
+	height: 35px;
+	background-color:#2e3740;
+	margin-top: -70px;
+}
+
+
+.len1{
+	height: 80px;
+	width: 80px;
+	border-radius: 40px;
+	background-color: #ffffff;
+	margin-left: 35px;
+    margin-top: -41px;
+
+
+}
+.len2{
+	width: 70px;
+	height: 70px;
+	border-radius: 35px;
+	background-color: #5bc0de;
+	margin-left: 40px;
+    margin-top: -75px;
+}
+
+.len3{
+	width: 56px;
+	height: 56px;
+	border-radius: 28px;
+	background-color: #7dcde6;
+	margin-left: 47px;
+    margin-top: -63px;
+}
+.len4{
+	width: 30px;
+	height: 30px;
+	border-radius: 15px;
+	background-color: #000000;
+	margin-left: 61px;
+	margin-top: -43px;
+}
+
+.len5{
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+	background-color: #ffffff;
+	margin-left: 64px;
+	margin-top: -26px;
+}
